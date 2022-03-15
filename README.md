@@ -12,7 +12,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://front-end-by-eglenem.github.io/4-kvadratai su calc/
 
-Design: [4-kvadratai su calc](https://i.pinimg.com/474x/66/c5/7b/66c57b9c554cd3f8354e2805b3654df9---page-design-website.jpg)
+Design: [4-kvadratai su calc](/Screenshot%202022-03-10%20at%2012.52.57.png)
 
 ## Project features
 
